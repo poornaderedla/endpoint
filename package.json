@@ -1,0 +1,17 @@
+{
+  "name": "job",
+  "version": "1.0.0",
+  "description": "job purpose",
+  "main": "server.js",
+  "scripts": {
+
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "poorna",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
